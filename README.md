@@ -62,7 +62,10 @@ npm run prepare-all
 npm run dev
 ```
 
-![](./public/demo.mp4)
+<video src="https://github.com/Meyiwa123/ProVerse-Live/raw/8638a413b8bb5dc5495cb4b427ce6893a50a3a87/public/demo.mp4" 
+controls width="700">
+  Your browser does not support the video tag.
+</video>
 
 ## 🧠 Algorithm Overview
 
