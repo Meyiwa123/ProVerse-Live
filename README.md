@@ -1,4 +1,6 @@
-# ![](/public/logo.png) ProVerse Live
+<img src="/public/logo.png" alt="ProVerse Live" width="120" style="vertical-align: middle;" />  
+
+# ProVerse Live
 
 An intelligent real-time system that listens to live speech (e.g., sermons, teachings, or prayers),
 transcribes it into text, and automatically **suggests Bible verses** that match the context —
@@ -34,6 +36,8 @@ Built with **Vite + React + Tailwind + Transformers.js**.
   - Scrollable live transcript and suggestion panes
 
 
+https://github.com/user-attachments/assets/2c6486b0-d906-4162-b10a-31b6a901e6d9
+
 ---
 
 ## 🚀 Setup Guide
@@ -61,11 +65,7 @@ npm run prepare-all
 ```bash
 npm run dev
 ```
-
-<video src="https://github.com/Meyiwa123/ProVerse-Live/raw/8638a413b8bb5dc5495cb4b427ce6893a50a3a87/public/demo.mp4" 
-controls width="700">
-  Your browser does not support the video tag.
-</video>
+---
 
 ## 🧠 Algorithm Overview
 
