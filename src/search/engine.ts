@@ -7,7 +7,8 @@ import type { Verse, Suggestion } from "@/types";
    Transformers.js (CDN + cache)
    ================================ */
 env.allowLocalModels = false;     // use remote models (CDN)
-env.useBrowserCache = false;       // cache in IndexedDB for fast reloads
+// set to false for testing
+env.useBrowserCache = true;       // cache in IndexedDB for fast reloads
 env.backends.onnx.wasm.proxy = false;
 // env.backends.onnx.wasm.numThreads = 1; // safe default for wide compatibility
 
