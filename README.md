@@ -62,7 +62,7 @@ npm run prepare-all
 npm run dev
 ```
 
-[![Watch the video](./public/demo.png)](./public/demo.mp4)
+![](./public/demo.mp4)
 
 ## 🧠 Algorithm Overview
 
